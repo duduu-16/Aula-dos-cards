@@ -21,3 +21,16 @@ criaCartao(
     'Como se diz OI em inglês?',
     'Oi em ingles é HI (RAI)'
 ) 
+
+criaCartao(
+    'Matematica',
+    'Qual é a fórmula de Bhaskara?',
+    '(-b±√(b²-4ac))/(2a)'
+) 
+
+criaCartao(
+    'História',
+    'Quem foi Fernando Henrique Cardoso?',
+    'Ele foi um sociólogo e ex-presidente do Brasil.'
+) 
+
