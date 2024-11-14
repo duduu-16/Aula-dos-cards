@@ -1,36 +1,36 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Cultura pop',
+    'Quantos grammys de álbum do ano a Beyoncé tem?',
+    'NNenhum poque ela é sempre boicotada'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Cultura pop',
+    'A Olivia Rodrigo ganhoou artista revelação?',
+    'OLD, diva faz assim!'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Cultura pop',
+    'Quanto AOTY (Album of the year) a Taylor SWift tem?',
+    '4, e vai ganhar o 5º ano que vem!'
 )
 
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Cultura pop',
+    'Quem vai ser a boicotada do ano no grammys 2025?',
+    'Isso mesmo, Ariana Grande'
 ) 
 
 criaCartao(
-    'Matematica',
-    'Qual é a fórmula de Bhaskara?',
-    '(-b±√(b²-4ac))/(2a)'
+    'Cultura pop',
+    'Short.n Sweet vai ganhar algo?',
+    'Só artistas ganham bb'
 ) 
 
 criaCartao(
-    'História',
-    'Quem foi Fernando Henrique Cardoso?',
-    'Ele foi um sociólogo e ex-presidente do Brasil.'
+    'Cultura pop',
+    'O que é Brat?',
+    'Brat é agro, Brat é pop, Brat é tudo. BRAT É VIDA'
 ) 
 
